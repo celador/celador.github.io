@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 How to get a DreamFore talk in four easy steps.
 
 Step 1) Come up with a fancy sounding phrase using lots of buzz words.

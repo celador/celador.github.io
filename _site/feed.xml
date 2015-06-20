@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jun 2015 23:21:06 -0400</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2015 23:21:06 -0400</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2015 23:22:32 -0400</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2015 23:22:32 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -41,7 +41,7 @@
       </item>
     
       <item>
-        <title>How To Dreamforce Talk</title>
+        <title>Blogging Like a Hacker</title>
         <description>&lt;p&gt;How to get a DreamFore talk in four easy steps.&lt;/p&gt;
 
 &lt;p&gt;Step 1) Come up with a fancy sounding phrase using lots of buzz words.
